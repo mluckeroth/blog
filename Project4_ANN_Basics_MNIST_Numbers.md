@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: ANN Basics - MNIST Numbers
 permalink: /project_4/
 ---

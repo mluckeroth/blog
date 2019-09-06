@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Forest Cover Type - Part 2 - Feature Engineering
 permalink: /project_2/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Forest Cover Type - Part 3 - Ensemble Model
 permalink: /project_3/
 ---

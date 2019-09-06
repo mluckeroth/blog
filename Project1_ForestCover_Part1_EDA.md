@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Forest Cover Type - Part 1 - Exploritory Data Analysis
 permalink: /project_1/
 ---
